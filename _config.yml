@@ -1,10 +1,10 @@
 # Site settings
-title: Nocturne
-SEOTitle: Nocturne LIU | Blog
+title: Lue SHEN
+SEOTitle: Lue SHEN | Blog
 header-img: img/home-bg.jpg
-email: junjieliu2910@gmail.com
-description: "A year 4 EE studne, interested in CS"
-keyword: "test_keyword, Nocturne"
+email: omit1996@gmail.com
+description: "A year 4 Math student, interested in CS and QF"
+keyword: "lucas, shen lue"
 url: "http://lueshen.info"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
