@@ -1,12 +1,12 @@
 {
-    "name": "Nocturne-blog",
-    "title": "Nocturne Blog",
-    "author": "Nocturne <junjieliu2910@gmail.com>",
+    "name": "Lucas-blog",
+    "title": "Lucas Blog",
+    "author": "Lucas <omit1996@gmail.com>",
     "version": "1.0.0",
-    "homepage": "http://junjieliu2910.github.io",
+    "homepage": "http://lueshen.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/junjieliu2910/junjieliu2910.github.io"
+        "url": "https://github.com/lueshen/lueshen.github.io"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
