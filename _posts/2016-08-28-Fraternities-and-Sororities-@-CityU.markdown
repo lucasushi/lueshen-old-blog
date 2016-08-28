@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      “Fraternities and Sororities @ CityU”
-subtitle:   " \”城大兄弟姐妹会\””
+title:      "Fraternities and Sororities @ CityU"
+subtitle:   " \"城大兄弟姐妹会\""
 date:       2016-08-28 14:23:52
-author:     “Lucas”
+author:     "Lue SHEN"
 catalog: true
 tags:
     - life
