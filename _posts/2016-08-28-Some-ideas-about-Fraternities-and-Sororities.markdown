@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Some Ideas About Fraternities and Sororities"
+title:      "Some Ideas About Fraternities and Sororities (FWD Junjie)"
 subtitle:   " \"We are willing to offer help\""
 date:       2016-08-20 09:20:00
 author:     “Lucas”
@@ -28,4 +28,4 @@ tags:
 - 结对的两人必须同性别
 - 一个人只能有一个哥哥或者弟弟
 
-目前只有这两条基本原则，高年级的成员也只有我跟刘俊杰，也只在湖北的新生里面认弟弟，以后遇到了什么问题需要加规则再说，希望这个组织能保持成立的初衷，让更多新生不在迷茫。
+目前只有这两条基本原则，高年级的成员也只有我跟沈略，也只在湖北的新生里面认弟弟，以后遇到了什么问题需要加规则再说，希望这个组织能保持成立的初衷，让更多新生不在迷茫。
