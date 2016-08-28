@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Fraternities and Sororities @ CityU"
-subtitle:   " \"城大兄弟姐妹会\""
+title:      "城大兄弟姐妹会"
+subtitle:   " \"Fraternities and Sororities @ CityU\""
 date:       2016-08-28 14:23:52
 author:     "Lue SHEN"
 catalog: true
