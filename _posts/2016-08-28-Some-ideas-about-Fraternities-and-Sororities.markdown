@@ -3,7 +3,7 @@ layout:     post
 title:      "Some Ideas About Fraternities and Sororities (FWD Junjie)"
 subtitle:   " \"We are willing to offer help\""
 date:       2016-08-20 09:20:00
-author:     “Lucas”
+author:     “Lue SHEN”
 catalog: true
 tags:
     - life
