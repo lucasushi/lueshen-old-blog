@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      “城大兄弟会、姐妹会”
-subtitle:   " \"Fraternities and Sororities in City University of Hong Kong\””
+title:      “Fraternities and Sororities @ CityU”
+subtitle:   " \”城大兄弟姐妹会\””
 date:       2016-08-28 14:23:52
 author:     “Lucas”
 catalog: true
