@@ -2,7 +2,7 @@
 layout:     post
 title:      "A Tour To Hunan"
 subtitle:   " \"瀟湘考\""
-date:       2015-07-0 10:43:12
+date:       2015-07-10 10:43:12
 author:     "Lue SHEN"
 catalog: true
 tags:
