@@ -6,7 +6,7 @@ date:       2014-07-07 23:55:21
 author:     "Lue SHEN"
 catalog: true
 tags:
-    - life
+    - perspectives
 ---
 
 ## 两把萨克斯
