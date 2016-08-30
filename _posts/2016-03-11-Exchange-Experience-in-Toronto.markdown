@@ -9,13 +9,13 @@ tags:
     - life
 ---
 
-
+## To Begin With
 Generally speaking, the exchange semester is an extraordinarily wonderful journey during my university life. There are so many exciting events to share that I cannot even select a particular one to start with. 
 
 ## Jet Lag
 The jet lag and time difference between parents, friends and me initiated the journey. I was often disturbed by cellphone vibrations in deep night at the very beginning. However, as time went on, we gradually got used to this strange but interesting phenomenon. Actually, I even attended some interviews held by CityU for OIS and CIS later in the semester.
 
-## Travel
+## Traveling
 Traveling around in a foreign country is another challenging but enjoyable journey. Within these short four months, I visited several places in North America, namely, Toronto, Niagara Falls, Montreal, Ottawa and Chicago. Cycling along the Niagara River, hiking the Mount Royal, and watching NBA games at the stadium gave me great comforts and relaxations. The most common feeling is that Canadian cities are much more tranquil than Hong Kong, less populated, less crowded, and you can even be offered with serenity when living in downtown! 
 
 
