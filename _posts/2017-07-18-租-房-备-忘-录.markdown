@@ -6,7 +6,7 @@ date:       2017-07-18 12:00:00
 author:     "Lue SHEN"
 catalog: true
 tags:
-    - life
+    - confidential
 ---
 
 ## 物品
