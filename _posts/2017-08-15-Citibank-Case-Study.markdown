@@ -19,6 +19,6 @@ Jiawei Song, Jarven
 Qing Zeng, Olivia
 
 ## Presentation Files
-Here is the <a href="CitibankCaseStudy.pptx">PPT</a> file.
+Here is the <a href="/img/in-post/CitibankCaseStudy.pptx">PPT</a> file.
 
-Here is the <a href="CitibankCaseStudy.pdf">PDF</a> file.
+Here is the <a href="/img/in-post/CitibankCaseStudy.pdf">PDF</a> file.
