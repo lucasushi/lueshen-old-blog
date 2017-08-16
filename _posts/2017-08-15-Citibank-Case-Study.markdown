@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Citibank Case Study"
-subtitle:   " \"A Presentation on a HBS case study\""
+subtitle:   " \"A presentation on an HBS case study\""
 date:       2017-08-15 22:35:34
 author:     "Lue SHEN"
 catalog: true
