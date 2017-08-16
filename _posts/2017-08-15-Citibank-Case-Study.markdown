@@ -25,3 +25,6 @@ As decision makers in Citibank HK, we need to decide whether to participate in a
 Here is the <a href="/img/in-post/CitibankCaseStudy.pptx">PPT</a> file.
 
 Here is the <a href="/img/in-post/CitibankCaseStudy.pdf">PDF</a> file.
+
+## References
+Here is the <a href="https://developers.opengamma.com/quantitative-research/Pricing-and-Risk-Management-of-Credit-Default-Swaps-OpenGamma.pdf">text</a> that I referred to for CDS pricing Model.
