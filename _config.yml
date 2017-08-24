@@ -2,8 +2,8 @@
 title: Lue SHEN
 SEOTitle: Lue SHEN | Blog
 header-img: img/darth-vader.jpg
-email: omit1996@gmail.com
-description: "A senior math student, minor in computer science and quantitive finance"
+email: lueshen2@gmail.com
+description: "A FinMath postgraduate at HKUST, just a nerd student."
 keyword: "lucas, shen lue"
 url: "http://www.lueshen.info"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -17,7 +17,7 @@ zhihu_username:     shen-lue-6
 #github_username:    lueshen
 twitter_username:   lveshen
 facebook_username:  shenlue1996
-linkedin_username:  lue-shen-12a151105
+linkedin_username:  lueshen
 
 
 
